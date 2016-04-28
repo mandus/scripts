@@ -1,7 +1,7 @@
 #!/bin/bash
 #
 # (C) ExpertAnalytics 2016
-# author Åsmund Ødegård <asmund@xal.no>
+# Åsmund Ødegård <asmund@xal.no>
 #
 # This is a script in the public domain - use however you like.
 #
